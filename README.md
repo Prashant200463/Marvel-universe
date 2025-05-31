@@ -3,6 +3,7 @@
 
 Welcome to the **Marvel Universe Landing Page**, a visually engaging and interactive front-end project that serves as the entry point to explore the Marvel multiverse. This project showcases a modern, stylish UI with vibrant illustrations of iconic Marvel characters.
 
+![Marvel Landing Page Preview](Screenshot%202025-05-31%20230815.png)
 
 
 ## 🚀 Features
