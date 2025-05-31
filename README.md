@@ -23,7 +23,7 @@ Welcome to the **Marvel Universe Landing Page**, a visually engaging and interac
 
 ## 📁 Folder Structure
 
--├── index.html # Main HTML file
--├── style.css # CSS styles
--├── script.js # JavaScript functionality 
+- index.html
+- style.css # CSS styles
+- script.js # JavaScript functionality 
 
